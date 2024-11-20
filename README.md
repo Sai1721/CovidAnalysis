@@ -50,7 +50,7 @@ The dataset used for this project includes the following columns:
 ## **Setup and Installation**
 1. **Clone the Repository**:
    ```bash
-   git clone [https://github.com/Sai1721/covid19-pyspark-analysis.git](https://github.com/Sai1721/CovidAnalysis)
+   git clone [https://github.com/Sai1721/CovidAnalysis.git]
    cd covid19-pyspark-analysis
 2. **Install Dependencies**:  
    Ensure that Python and Apache Spark are installed on your system. You can install PySpark using:  
