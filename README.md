@@ -12,8 +12,6 @@ This repository contains a data analysis project that uses PySpark to process an
 5. [Setup and Installation](#setup-and-installation)
 6. [Usage](#usage)
 7. [Results and Insights](#results-and-insights)
-8. [Contributing](#contributing)
-9. [License](#license)
 
 ---
 
@@ -52,7 +50,7 @@ The dataset used for this project includes the following columns:
 ## **Setup and Installation**
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/covid19-pyspark-analysis.git
+   git clone [https://github.com/Sai1721/covid19-pyspark-analysis.git](https://github.com/Sai1721/CovidAnalysis)
    cd covid19-pyspark-analysis
 2. **Install Dependencies**:  
    Ensure that Python and Apache Spark are installed on your system. You can install PySpark using:  
